@@ -1,10 +1,10 @@
 #支持私库
-accetto/ubuntu-vnc-xfce-firefox-g3:20.04
-accetto/ubuntu-vnc-xfce-firefox-g3:22.04
-onlyoffice/documentserver:8.0.1
-golang:1.21.7
-ubuntu:20.04
-ubuntu:22.04
-centos:centos7.5.1804
+redis:7.2-rc1
+mysql:8.4.0
+mysql:8.0.3
+python:3.8.10
+dockurr/windows:latest
+node:20.15.0
+node:18.20.2
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist

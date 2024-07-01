@@ -1,4 +1,10 @@
 #支持私库
-nginx:1.24.0
+accetto/ubuntu-vnc-xfce-firefox-g3:20.04
+accetto/ubuntu-vnc-xfce-firefox-g3:22.04
+onlyoffice/documentserver:8.0.1
+golang:1.21.7
+ubuntu:20.04
+ubuntu:22.04
+centos:centos7.5.1804
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist

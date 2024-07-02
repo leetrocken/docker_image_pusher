@@ -1,10 +1,4 @@
 #支持私库
-redis:7.2-rc1
-mysql:8.4.0
-mysql:8.0.3
-python:3.8.10
-dockurr/windows:latest
-node:20.15.0
-node:18.20.2
+ollama/ollama:0.1.48-rocm
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist

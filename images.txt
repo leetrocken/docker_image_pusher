@@ -1,5 +1,4 @@
 #支持私库
-gitlab/gitlab-ce:17.0.4-ce.0
-gitlab/gitlab-runner:ubuntu-v16.11.2
+cnk3x/xunlei:3.4.0
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist

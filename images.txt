@@ -1,4 +1,4 @@
 #支持私库
-cnk3x/xunlei:3.4.0
+ghcr.io/wandb/openui
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist

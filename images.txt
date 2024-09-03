@@ -1,4 +1,4 @@
 #支持私库
-jgraph/drawio:24.7.5
+--platform=linux/arm64 dockurr/windows-arm:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist

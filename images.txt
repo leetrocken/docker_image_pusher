@@ -1,4 +1,4 @@
 #支持私库
-localai/localai:latest-aio-cpu
+localai/localai:latest-cpu
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
